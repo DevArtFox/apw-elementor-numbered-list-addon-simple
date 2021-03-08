@@ -2,9 +2,10 @@
 /**
  * Plugin Name: Elementor numbered list Simple
  * Description: Нумерованный список для Elementor. Версия Simple не включает в себя настройку стилей списка, так что придется делать вручную к шаблону
+ * Plugin URI:  https://github.com/Trexiz/apw-elementor-numbered-list-addon-simple
  * Version:     1.0.0
  * Author:      Alexandr.pw
- * Author URI:  https://github.com/Trexiz/Elementor_Addon
+ * Author URI:  https://github.com/Trexiz
  * Text Domain: apw-elementor-addons
  */
 namespace ApwWebSite;
