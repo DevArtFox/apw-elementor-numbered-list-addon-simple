@@ -1,8 +1,7 @@
 <?php
 /**
- * Plugin Name: Apw Elementor Addon
- * Description: Аддон для Elementor
- * Plugin URI:  https://www.soliddigital.com/blog/...
+ * Plugin Name: Elementor numbered list Simple
+ * Description: Нумерованный список для Elementor. Версия Simple не включает в себя настройку стилей списка, так что придется делать вручную к шаблону
  * Version:     1.0.0
  * Author:      Alexandr.pw
  * Author URI:  https://github.com/Trexiz/Elementor_Addon
